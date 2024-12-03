@@ -9,11 +9,11 @@ This project were made by me with an ambigous to gain knowledge.
 
 ## Description
 
-#### There are 5 actors participated in our system:
+#### There are 3 actors participated in our system:
 
 - Guest: unregistered users.
 - Users: registered users who can post threads.
-Admin: the organization leader/manager, acts as the system administrator.
+- Admin: the organization leader/manager, acts as the system administrator.
 
 #### Tech stack used:
 
